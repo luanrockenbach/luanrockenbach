@@ -34,6 +34,7 @@ Sou apaixonado pelo desenvolvimento de hardware e software (melhor ainda quando 
   <img src="https://img.shields.io/badge/TinyML-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TinyML" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
 </p>
+
 ### 📫 Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanrockenbach/)
